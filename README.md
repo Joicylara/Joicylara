@@ -8,8 +8,23 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joicylara&bg_color=000000&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-<div>
+
+### studied or studying at the moment:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=coffeescript&labelColor==0D1117)
+![Postgres](https://img.shields.io/badge/postgres-0D1117?style=for-the-badge&logo=postgresql&labelColor==0D1117)
+![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&labelColor==0D1117)
+![GIT](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&labelColor==0D1117)
+![Arduino](https://img.shields.io/badge/arduino-0D1117?style=for-the-badge&logo=arduino&labelColor==0D1117)
+![C](https://img.shields.io/badge/c-0D1117?style=for-the-badge&logo=c&labelColor==0D1117)
+
+
+## :mailbox: CONTAT
+<div align="center">
  <a href = "mailto:joicykelly2301@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joicy-kelly-1171b0215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div> 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
