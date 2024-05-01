@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Joicy+Kelly;Estudante+de+Eng.+da+Computação;+Seja+bem-vinda(o)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,Mundo!;Meu+nome+é+Joicy+Kelly;Estudante+de+Eng.+da+Computação;Aspirante+a+desenvolvedora+desde+2020;Seja+bem-vinda(o)!;In+english:;Hello,World;My+name+is+Joicy+Kelly;Computer+Eng.+Student;Aspiring+developer+since+2020;Welcome!;+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joicylara&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFFf&text_color=00BFFFf&bg_color=0d1117" alt="Joicy Kelly github status" /> 
@@ -17,8 +17,13 @@
 ![Postgres](https://img.shields.io/badge/postgres-0D1117?style=for-the-badge&logo=postgresql&labelColor==0D1117)
 ![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&labelColor==0D1117)
 ![GIT](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&labelColor==0D1117)
+![GitHub](https://img.shields.io/badge/github-0D1117?style=for-the-badge&logo=github&labelColor==0D1117)
 ![Arduino](https://img.shields.io/badge/arduino-0D1117?style=for-the-badge&logo=arduino&labelColor==0D1117)
 ![C](https://img.shields.io/badge/c-0D1117?style=for-the-badge&logo=c&labelColor==0D1117)
+![Firebase](https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&labelColor==0D1117)
+![LibreOfficeBase](https://img.shields.io/badge/libreofficebase-0D1117?style=for-the-badge&logo=libreofficebase&labelColor==0D1117)
+![Octave](https://img.shields.io/badge/octave-0D1117?style=for-the-badge&logo=octave&labelColor==0D1117)
+
 
 
 ## :mailbox: CONTAT
