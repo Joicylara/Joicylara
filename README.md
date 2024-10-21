@@ -5,6 +5,8 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joicylara&show_icons=true&hide_border=true&title_color=00BFFF&icon_color=00BFFFf&text_color=00BFFFf&bg_color=0d1117&include_all_commits=true&count_private=true" alt="Joicy Kelly github status" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joicylara&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117" />
+
+  <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Joicylara&show_icons=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=00BFFF&bg_color=00BFFF" />
 </div>
 
 
@@ -25,8 +27,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&labelColor==0D1117)
 ![LibreOfficeBase](https://img.shields.io/badge/libreofficebase-0D1117?style=for-the-badge&logo=libreofficebase&labelColor==0D1117)
 ![Octave](https://img.shields.io/badge/octave-0D1117?style=for-the-badge&logo=octave&labelColor==0D1117)
-
-
 
 ## :mailbox: CONTAT
 <div align="center">
