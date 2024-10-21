@@ -27,6 +27,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&labelColor==0D1117)
 ![LibreOfficeBase](https://img.shields.io/badge/libreofficebase-0D1117?style=for-the-badge&logo=libreofficebase&labelColor==0D1117)
 ![Octave](https://img.shields.io/badge/octave-0D1117?style=for-the-badge&logo=octave&labelColor==0D1117)
+![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&labelColor==0D1117)
 
 ## :mailbox: CONTAT
 <div align="center">
